@@ -13,14 +13,12 @@ Medellín, Colombia · Disponible para jornada de medio tiempo
 
 ## Proyectos destacados
 
-| Proyecto | Qué es | Resultado |
-|---|---|---|
-| [**CerebraIA**](https://github.com/Dgarzonac9/CerebraIA) | DCGAN y agente multimodal (LangChain) para imágenes de resonancia magnética | 10.560 MRI en cuatro categorías |
-| [**home-credit-default-risk-predictor**](https://github.com/Dgarzonac9/home-credit-default-risk-predictor) | Riesgo de incumplimiento crediticio con LightGBM y Optuna, sobre 7 tablas y 606 variables | AUC 0,795 y KS 0,45 en prueba |
-| [**corona-agent**](https://github.com/Dgarzonac9/corona-agent) | Agente con RAG que recomienda productos de un catálogo real, sin alucinar (proyecto en equipo, fork) | Respuestas respaldadas por herramientas |
-| [**Chatbot-Finanzas-Personales**](https://github.com/Dgarzonac9/Chatbot-Finanzas-Personales) | Bot de finanzas que interpreta lenguaje natural con LangGraph y FastAPI | En producción |
-| [**Asistente-Inteligente-para-Analisis-y-Visualizacion-de-Datos**](https://github.com/Dgarzonac9/Asistente-Inteligente-para-Analisis-y-Visualizacion-de-Datos) | RAG local con Ollama, con respuestas citadas y gráficas | 100 % offline |
-| [**noticias-falsas**](https://github.com/Dgarzonac9/noticias-falsas) | PLN: detección de noticias falsas de política en español sobre un corpus de 5.150 noticias, con TF-IDF y 4 algoritmos (trabajo en equipo) | F1 ponderado 0,849 en test |
+- [**CerebraIA**](https://github.com/Dgarzonac9/CerebraIA): DCGAN entrenada con 10.560 imágenes de resonancia magnética y un agente que las analiza y redacta reportes.
+- [**home-credit-default-risk-predictor**](https://github.com/Dgarzonac9/home-credit-default-risk-predictor): riesgo de incumplimiento crediticio con LightGBM y Optuna. AUC 0,795 en prueba.
+- [**corona-agent**](https://github.com/Dgarzonac9/corona-agent): agente con RAG que recomienda productos de un catálogo real. Proyecto en equipo.
+- [**Chatbot-Finanzas-Personales**](https://github.com/Dgarzonac9/Chatbot-Finanzas-Personales): bot de Telegram en producción para finanzas personales, con LangGraph y FastAPI.
+- [**Asistente-Inteligente-para-Analisis-y-Visualizacion-de-Datos**](https://github.com/Dgarzonac9/Asistente-Inteligente-para-Analisis-y-Visualizacion-de-Datos): asistente RAG local con Ollama, con respuestas citadas y gráficas.
+- [**noticias-falsas**](https://github.com/Dgarzonac9/noticias-falsas): detección de noticias falsas de política en español. F1 ponderado 0,849 en test. Proyecto en equipo.
 
 ## Stack
 
